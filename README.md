@@ -1,1 +1,3 @@
-# new-kokoa-clone-2023
+# Kokoa Clone 2020 Update
+
+HTML & CSS are so much fun!
